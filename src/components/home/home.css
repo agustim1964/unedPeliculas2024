@@ -1,0 +1,9 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.peliculas {
+    display: flex;
+    flex-direction: row;
+}
